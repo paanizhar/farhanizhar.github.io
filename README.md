@@ -1,5 +1,4 @@
 # farhanizhar.github.io
-My portfolio
 
 # Farhan Izhar
 
@@ -38,8 +37,8 @@ My portfolio
 
 ## Contact
 
-* Email: [Your Email]
-* LinkedIn: Your LinkedIn Profile]
-* Twitter: [Your Twitter Handle]
+* Email: farhanizhar@gmail.com
+* LinkedIn: (https://www.linkedin.com/in/muhammad-farhan-mohd-izhar-465b59222/)
+* Phone: +60174573858
 
 [GitHub Stats [invalid URL removed]
