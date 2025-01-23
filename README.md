@@ -1,7 +1,7 @@
 # farhanizhar.github.io
 My portfolio
 
-# Your Name
+# Farhan Izhar
 
 [Your Profile Picture]
 
